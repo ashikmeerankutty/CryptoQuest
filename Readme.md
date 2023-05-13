@@ -3,10 +3,9 @@
 <p align="center">
   <a href="/">
     <img src="./screenshots/2.png" alt="Logo" width="480" height="240">
-  </a>
-  <h6>Built at AIBC Hackathon by Playnance</h6>
-  </p>
+  </a>  </p>
 
+  <p>Play CryptoQuest game online at <a href="https://cryptoquest.netlify.app/">here</a></p>
 
   <p>Visit CryptoQuest store at <a href="https://thirdweb.com/mumbai/0x136EA5Da1b4e5Dd4aA20D4519cf226D02A58D4ee/listings">here</a></p>
   
